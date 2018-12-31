@@ -1,4 +1,4 @@
-# Students-performance-in-Exams
+# Students performance in Exams
 
 **About the Dataset:**
 
